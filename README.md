@@ -17,3 +17,4 @@ Features:
 Technical side:
 
 - File size in bytes
+- i don't know for 100% but i think you need visual studio to test this app
