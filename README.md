@@ -4,7 +4,7 @@
 
 Technology:
 
-- Console C# App (Visual Studio)
+- Console C# App .Net (Visual Studio)
 - C# language
 - Using System.IO
 - Created on Mac 
