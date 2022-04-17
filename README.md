@@ -13,3 +13,7 @@ Features:
 
 - Scanning path that you pass in console and telling size of path and children’s paths also telling Creation Time(But it can be wrong)
 - Deleting Files
+
+Technical side:
+
+- File size in bytes
