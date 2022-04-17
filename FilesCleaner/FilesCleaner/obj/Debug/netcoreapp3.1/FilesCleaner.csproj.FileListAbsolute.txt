@@ -1,0 +1,13 @@
+/Users/benjamindryniak/Desktop/projekty/c#/FilesCleaner/FilesCleaner/bin/Debug/netcoreapp3.1/FilesCleaner.deps.json
+/Users/benjamindryniak/Desktop/projekty/c#/FilesCleaner/FilesCleaner/bin/Debug/netcoreapp3.1/FilesCleaner.runtimeconfig.json
+/Users/benjamindryniak/Desktop/projekty/c#/FilesCleaner/FilesCleaner/bin/Debug/netcoreapp3.1/FilesCleaner.runtimeconfig.dev.json
+/Users/benjamindryniak/Desktop/projekty/c#/FilesCleaner/FilesCleaner/bin/Debug/netcoreapp3.1/FilesCleaner.dll
+/Users/benjamindryniak/Desktop/projekty/c#/FilesCleaner/FilesCleaner/bin/Debug/netcoreapp3.1/FilesCleaner.pdb
+/Users/benjamindryniak/Desktop/projekty/c#/FilesCleaner/FilesCleaner/obj/Debug/netcoreapp3.1/FilesCleaner.csproj.AssemblyReference.cache
+/Users/benjamindryniak/Desktop/projekty/c#/FilesCleaner/FilesCleaner/obj/Debug/netcoreapp3.1/FilesCleaner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamindryniak/Desktop/projekty/c#/FilesCleaner/FilesCleaner/obj/Debug/netcoreapp3.1/FilesCleaner.AssemblyInfoInputs.cache
+/Users/benjamindryniak/Desktop/projekty/c#/FilesCleaner/FilesCleaner/obj/Debug/netcoreapp3.1/FilesCleaner.AssemblyInfo.cs
+/Users/benjamindryniak/Desktop/projekty/c#/FilesCleaner/FilesCleaner/obj/Debug/netcoreapp3.1/FilesCleaner.csproj.CoreCompileInputs.cache
+/Users/benjamindryniak/Desktop/projekty/c#/FilesCleaner/FilesCleaner/obj/Debug/netcoreapp3.1/FilesCleaner.dll
+/Users/benjamindryniak/Desktop/projekty/c#/FilesCleaner/FilesCleaner/obj/Debug/netcoreapp3.1/FilesCleaner.pdb
+/Users/benjamindryniak/Desktop/projekty/c#/FilesCleaner/FilesCleaner/obj/Debug/netcoreapp3.1/FilesCleaner.genruntimeconfig.cache
